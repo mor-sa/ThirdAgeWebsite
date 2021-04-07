@@ -19,5 +19,5 @@ I chose my website to be about the president, Reuven Ruvi Rivlin.
 * **Tweets** - shows the recent Ruvi Rivlin's tweets from Ruvi Rivlin's official Tweeter account and a button to follow him on twitter.
 * **Contact Me** - a form to write to my mail, option to add emojis.
 
-Website URL:
+Website URL of the actual assignment:
 https://web-development-environments-2021.github.io/205543606/
