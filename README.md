@@ -9,14 +9,14 @@ I chose my website to be about the president, Reuven Ruvi Rivlin.
 
 ## What's in the site?
 
-* About Me - a brief history and information about Ruvi Rivlin.
-* My Photos - a simple slideshow with photos of Ruvi Rivlin.
-* My Playlist - three videos of Ruvi Rivlin and a short explanation.
-* Like - Like button connected to Ruvi Rivlin's official facebook page.
-* QR Code - a QR Code that leads to the assignment's url.
-* Q&A - answers to 2 questions that were given in the assignment.
-* Tweets - shows the recent Ruvi Rivlin's tweets from Ruvi Rivlin's official Tweeter account and a button to follow him on twitter.
-* Contact Me - a form to write to my mail, option to add emojis.
+* *About Me* - a brief history and information about Ruvi Rivlin.
+* *My Photos* - a simple slideshow with photos of Ruvi Rivlin.
+* *My Playlist* - three videos of Ruvi Rivlin and a short explanation.
+* *Like* - Like button connected to Ruvi Rivlin's official facebook page.
+* *QR Code* - a QR Code that leads to the assignment's url.
+* *Q&A* - answers to 2 questions that were given in the assignment.
+* *Tweets* - shows the recent Ruvi Rivlin's tweets from Ruvi Rivlin's official Tweeter account and a button to follow him on twitter.
+* *Contact Me* - a form to write to my mail, option to add emojis.
 
 Website URL:
 https://web-development-environments-2021.github.io/205543606/
