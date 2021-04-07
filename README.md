@@ -2,8 +2,8 @@
 ThirdAgeWebsite created by GitHub Classroom
 
 ## Overview
-This is a simple website, HTML tags and a few Javascript scripts.
-I created for my Web Course, the assignment was to create a website for someone from the 3rd generation.
+This is a simple website, mainly HTML and a few Javascript scripts.
+I created it for my Web Course, the assignment was to create a website for someone from the 3rd generation.
 I chose my website to be about the president, Reuven Ruvi Rivlin.
 
 ![image](https://user-images.githubusercontent.com/62620992/113936622-b0e2af00-9800-11eb-8207-13704329db6e.png)
