@@ -1,6 +1,7 @@
 # ThirdAgeWebsite
 ThirdAgeWebsite created by GitHub Classroom
 
+
 ## Overview
 This is a simple website, mainly HTML and a few Javascript scripts.
 I created it for my Web Course, the assignment was to create a website for someone from the 3rd generation.
